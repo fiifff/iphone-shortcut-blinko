@@ -1,3 +1,7 @@
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+[![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.md)
+
+
 ## iPhone Shortcut for Blinko
 
 * A lightweight iOS Shortcut that lets you quickly send content to Blinko and create a new Flash Note with minimal friction.
