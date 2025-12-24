@@ -1,4 +1,4 @@
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 
 
 # iphone-shortcut-blinko
